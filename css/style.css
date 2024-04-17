@@ -482,6 +482,7 @@ footer{
 .first__button,
 .second__button{
 	transition: all .3s ease;
+	padding: 15.21px 50px!important;
 }
 
 .first__button{
@@ -499,7 +500,6 @@ footer{
 .content__button_block>a{
 	display: block;
 	width: 263px;
-	padding: 15.21px 20px;
 	border-radius: 66px;
 	text-decoration: none;
 	font-family: Golos-Text;
